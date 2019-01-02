@@ -1,0 +1,6 @@
+venv
+.idea
+.coverage
+.pyc
+target
+__pycache__
